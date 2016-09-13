@@ -14,7 +14,7 @@ formulated in [1].
  If you use this code, please cite 
  
 Z. Wu, G. Menichetti, C. Rahmede, G. Bianconi
- "Emergent Complex Network Geometry"
- Scientific Reports 5, 10073 (2015).
+"Emergent Complex Network Geometry"
+Scientific Reports 5, 10073 (2015).
 
  (c) Zhihao Wu, Giulia Menichetti, Christoph Rahmede and Ginestra Bianconi
